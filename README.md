@@ -49,7 +49,5 @@
 
 </br>
 </br>
-</br>
-</br>
 
 **The PDF file includes the step-by-step implementation of the entire project, along with the backup methods and cost estimation.**
