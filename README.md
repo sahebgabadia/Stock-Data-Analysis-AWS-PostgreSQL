@@ -46,3 +46,9 @@
 3. Data Processing: Athena queries the stock data stored in S3 to perform analysis based on the query results (e.g., trend analysis, volatility computation).
    
 4. Data Output: The output can be in the form of reports or visualizations.
+
+</br>
+</br>
+</br>
+</br>
+**The PDF file includes the step-by-step implementation of the entire project, along with the backup methods and cost estimation.**
