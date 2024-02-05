@@ -21,7 +21,8 @@
  
 4. Data Output: The output can be in the form of reports or visualizations.
 
-
+</br>
+</br>
 
 
 **Setup 2: EC2-S3-Athena for Stock Data Analysis**
