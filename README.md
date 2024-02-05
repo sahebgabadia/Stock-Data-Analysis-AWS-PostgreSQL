@@ -4,7 +4,9 @@
 Setup 1: EC2-RDS (PostgreSQL) for Stock Data Analysis
 
 Components:
+
 CSV File: Contains stock data with 9 columns (Index, Date, High, Open, Low, Close, Adj_Close, Volume, Close_USD).
+
 Python Script: Simulates real-time stock data analysis.
 AWS EC2 (Elastic Compute Cloud): Hosts the Python script and manages the connection to RDS.
 AWS RDS (Relational Database Service): PostgreSQL database to store and manage stock data.
